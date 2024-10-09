@@ -13,7 +13,7 @@ Performed in-depth analysis of call center data to identify root causes of exten
 #### Tools: 
 Python, Pandas, Matplotlib, NLP, and Machine Learning.
 
-###Key Deliverables
+### Key Deliverables
 
 #### AHT and AST Analysis: 
 Analyzed factors contributing to high AHT and AST, identifying the most time-consuming and frequently occurring call reasons.
@@ -34,7 +34,7 @@ Suggested targeted training for high AHT issues, allowing agents to resolve comp
 
 ### Presentation and Resources
 
-Project Presentation: Presentation Link
+[View the Project Presentation](https://www.canva.com/design/DAGTEZ2NVXU/sb7_d4oHkw9u7gn3Z1NalA/edit?utm_content=DAGTEZ2NVXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Data Analysis Scripts: Python scripts used for data analysis and visualization are included in the repository.
 
 ### Future Work
