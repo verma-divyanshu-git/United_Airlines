@@ -32,12 +32,6 @@ Recommended the implementation of self-service options for common inquiries (e.g
 #### Agent Training Focus: 
 Suggested targeted training for high AHT issues, allowing agents to resolve complex issues faster and reducing total handle time.
 
-### Presentation and Resources
-
-#### Presentation Link
-
-[View the Project Presentation](https://www.canva.com/design/DAGTEZ2NVXU/sb7_d4oHkw9u7gn3Z1NalA/edit?utm_content=DAGTEZ2NVXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 #### Data Analysis Scripts: 
 Python scripts used for data analysis and visualization are included in the repository.
 
