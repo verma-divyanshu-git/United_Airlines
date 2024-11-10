@@ -1,5 +1,7 @@
-# United_Airlines
+# United_Airlines SkyHack2.0(Team Core_Dumped)
 
+Achieved a rank of 4 / 2000+ participants in the SKYHACK 2.0 Hackathon conducted by United Airlines in september 2024.
+SKYHACK Hackathon: https://www.hackerearth.com/challenges/hackathon/skyhack-3/
 
 ## Optimizing Call Center Metrics at United Airlines | Data Analysis, Machine Learning, Python, and NLP
 
