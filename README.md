@@ -1,6 +1,6 @@
 # United_Airlines SkyHack2.0(Team Core_Dumped)
 
-Ranked 4th among over 2,000 participants, placing in the Top 7 in the SKYHACK 2.0 Hackathon organized by United Airlines in September 2024.
+Ranked 4th among over 2,000 participants, placing in the Top 7 in the SKYHACK 2.0 Hackathon organized by United Airlines in Sept 2024.
 
 SKYHACK Hackathon: https://www.hackerearth.com/challenges/hackathon/skyhack-3/
 
